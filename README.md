@@ -1,6 +1,7 @@
 # OPTI_WEALTH
 
 # Stock Portfolio Recommendation based on Risk Tolerance and Cash Compounding
+![Alt text](images/image1.jpg)
 
 ## Authors:
 - Fanice Andayi
@@ -32,6 +33,8 @@ The primary goal is to create a tailored recommendation system that enhances por
 2. Create adaptive portfolio optimization methods that modify asset distributions according to evolving market dynamics and individual choices.
 3. Integrate compounding tactics to optimize wealth growth over time and boost portfolio returns.
 
+![Alt text](images/image2.jpg)
+
 ## Notebook Structure:
 1. Business Understanding
 2. Data Understanding
@@ -54,6 +57,8 @@ As a prominent financial services provider in Kenya, we understand the crucial r
 - Portfolio Return vs. Benchmark: Targeting a 3% annual outperformance against a relevant benchmark like the S&P 500.
 - Risk-adjusted Returns: Aiming for a Sharpe ratio exceeding 0.8 to ensure superior risk-adjusted performance compared to the benchmark.
 - Portfolio Diversification: Ensuring that at least 90% of portfolios meet diversification standards by being well-spread across various asset classes and industries.
+
+![Alt text](images/image3.jpg)
 
 ## Data Understanding:
 1. **Data Source:** The dataset used for this project is obtained from Yahoo Finance through web scraping. It contains historical stock market data for the top 10 companies listed on the Nasdaq exchange.
